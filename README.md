@@ -1,5 +1,5 @@
 <div>
-<img src="./Designer.png" width="100%" height="300px"/>
+<img src="./Banner.png" width="100%" height="300px"/>
 </div>
 <div align="center">
   <h1>Hi 👋, I'm Amit Kumar</h1>
