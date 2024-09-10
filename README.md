@@ -25,7 +25,8 @@
 
  <!--  About section -->
 
-<img align="right" width="200" height="auto" alt="code the cool stuff GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+<img align="right" width="200" height="auto" alt="code the cool stuff GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" style="display: block; margin: auto; padding: 0;" />
+
 Fluent in React.js and MERN magic, I’ve been shaping components and managing states with precision since I first touched a line of code. 🖥️
 
 I speak JavaScript like a second language and turn to Python when I want to solve algorithms with elegance. 🧑‍💻
