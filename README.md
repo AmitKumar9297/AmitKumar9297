@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm Amit Kumar</h1>
-  <h3>A Passionate Software Engineer from India</h3>
+  <h2><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi there! I'm Amit Kumar, Software Developer</img></h2>
+<!--   <h3>A Passionate Software Engineer from India</h3> -->
 </div>
 
 <p align="center">
@@ -23,12 +23,29 @@
   </a>
 </p>
 
+ <!--  About section -->
+
+<img align="right" width="200" height="auto" alt="code the cool stuff GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+Fluent in React.js and MERN magic, I’ve been shaping components and managing states with precision since I first touched a line of code. 🖥️
+
+I speak JavaScript like a second language and turn to Python when I want to solve algorithms with elegance. 🧑‍💻
+
+My toolkit includes Node.js for backend battles, MongoDB for crafting resilient databases, and an artistic touch with Chakra UI and MUI to create front-end experiences that leave an impact. 🎨
+
+In my free time, I dive into the world of cybersecurity, learning how to keep systems secure and exploring the cutting edge of digital defense. 🔒
+
+I’m always learning, always building, and always caffeinated. ☕🚀
+
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amitkumar9297&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 - 🌱 I’m currently learning **Angular, Next.js**
 - 📫 How to reach me: [amitkumar790194@gmail.com](mailto:amitkumar790194@gmail.com)
+
+---
 
 <div align="center">
   <h3>Languages and Tools:</h3>
@@ -111,15 +128,27 @@
   </div>
 </div>
 
-<h3 align="left">GitHub Stats:</h3>
+## GitHub Data
+<div align="center" style="width=100%">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitkumar9297&theme=discord_old_blurple)
+<br/>
+
+</div>
+
+
+<h3 align="left">Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumar9297&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar9297&count_private=true" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar9297&show_icons=true&locale=en&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar9297&count_private=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumar9297&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" />
 </p>
+
+
