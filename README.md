@@ -67,7 +67,7 @@ I’m always learning, always building, and always caffeinated. ☕🚀
 ## Projects <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 
-<div style="overflow-x: scroll; white-space: nowrap; border: 1px solid #ccc;">
+<div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ccc;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <th style="padding: 10px; text-align: left;">Project Name</th>
