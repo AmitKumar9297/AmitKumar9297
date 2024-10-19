@@ -64,10 +64,10 @@ I’m always learning, always building, and always caffeinated. ☕🚀
 | **Design Tools**     | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
 
 
-## Projects <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## <img src='https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif' width="40"> Projects
 
 
-<div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ccc;">
+<div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ccc; width: 100%;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <th style="padding: 10px; text-align: left;">Project Name</th>
