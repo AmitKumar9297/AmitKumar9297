@@ -77,39 +77,39 @@ I’m always learning, always building, and always caffeinated. ☕🚀
       <th style="padding: 10px; text-align: left;">Code Link</th>
     </tr>
     <tr>
+      <td style="padding: 10px;"><strong>Insight Romer</strong></td>
+      <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1Bb1bHUtdssO6BGA1WH66xVGvt4Bsf2JH" style="width: 200px;" /></td>
+      <td style="padding: 10px;">- Platform for sharing and exploring blogs<br>- User-friendly interface with rich features<br>- Supports creating, editing, and commenting on posts<br>- Fully responsive and visually appealing design</td>
+      <td style="padding: 10px;"><a href="https://insight-romer.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
+      <td style="padding: 10px;"><a href="https://github1s.com/amitkumar9297/insight-romer" target="_blank"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="https://github1s.com/amitkumar9297/insight-romer-backend" target="_blank"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>Cinematic Sneak</strong></td>
+      <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1qBWoF5ULm2m_mLoQE6KuKFHHYhwqbfhM" style="width: 200px;" /></td>
+      <td style="padding: 10px;">- Platform for movie enthusiasts<br>- Offers trailers & behind-the-scenes content<br>- Features updates on upcoming films<br>- Celebrates cinematic storytelling</td>
+      <td style="padding: 10px;"><a href="https://cinematic-sneak.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
+      <td style="padding: 10px;"><a href="https://github1s.com/amitkumar9297/Cinematic-Sneak" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    </tr>
+    <tr>
       <td style="padding: 10px;"><strong>Code Editor</strong></td>
       <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1tz98UK2ZEOGsJcIDR14Y9kQKvtT4J_Sb" style="width: 200px;" /></td>
       <td style="padding: 10px;">- Web-based code editor<br>- Syntax highlighting for various languages<br>- Error detection and code completion</td>
       <td style="padding: 10px;"><a href="https://code-editor-ruddy.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
-      <td style="padding: 10px;"><a href="https://github.com/amitkumar9297/code-editor.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+      <td style="padding: 10px;"><a href="https://github1s.com/amitkumar9297/code-editor" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
     </tr>
     <tr>
       <td style="padding: 10px;"><strong>IP Tracker</strong></td>
       <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=16c8POk8PnTbkiQJLW1WjBUC76l3ArfQM" style="width: 200px;" /></td>
       <td style="padding: 10px;">- Input an IP address<br>- Retrieves geolocation data<br>- Displays city, region, and country information</td>
       <td style="padding: 10px;"><a href="https://ip-tracker-indol-nine.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
-      <td style="padding: 10px;"><a href="https://github.com/amitkumar9297/ip_tracker.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+      <td style="padding: 10px;"><a href="https://github1s.com/amitkumar9297/ip_tracker" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
     </tr>
     <tr>
       <td style="padding: 10px;"><strong>Crypto Info</strong></td>
       <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=19wEBTbyoIp8X5tbK7tHARwIeWMk6MjSV" style="width: 200px;" /></td>
       <td style="padding: 10px;">- Real-time cryptocurrency prices<br>- Market trends and analysis<br>- Information for various coins</td>
       <td style="padding: 10px;"><a href="https://cryptoinfo-one.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
-      <td style="padding: 10px;"><a href="https://github.com/amitkumar9297/CryptoInfo-React-App.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>Snake Game</strong></td>
-      <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1BbU_poL55Zqi1iN54QNQCCYwdykRhrrB" style="width: 200px;" /></td>
-      <td style="padding: 10px;">- Classic snake gameplay<br>- Eat food to grow longer<br>- Avoid walls and self-collision</td>
-      <td style="padding: 10px;"><a href="https://amitkumar9297.github.io/snack-game/" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
-      <td style="padding: 10px;"><a href="https://github.com/amitkumar9297/snack-game.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>Dice Game</strong></td>
-      <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1aljh67Wyl-Vls1XO9ymvGJbdcOU9espz" style="width: 200px;" /></td>
-      <td style="padding: 10px;">- Interactive dice-rolling game<br>- Roll one or two dice<br>- Simple and engaging gameplay</td>
-      <td style="padding: 10px;"><a href="https://dice-game-eosin-alpha.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
-      <td style="padding: 10px;"><a href="https://github.com/amitkumar9297/dice_game.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+      <td style="padding: 10px;"><a href="https://github1s.com/amitkumar9297/CryptoInfo-React-App" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
     </tr>
   </table>
 </div>
@@ -121,13 +121,31 @@ I’m always learning, always building, and always caffeinated. ☕🚀
 <details>
   <summary>Show More Projects</summary>
 
-| Sr. No | Project Name             | Project Image                                                                                               | Live URL                                       | Code Link                                       |
-|--------|--------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|
-| 6      | **Chat Application**     | <img src="https://via.placeholder.com/150" width="100" height="60" alt="Chat App Image"/>                    | [View Live](https://your-chat-url.com)       | [GitHub](https://github.com/your-profile/chat-app) |
-| 7      | **Task Manager**         | <img src="https://via.placeholder.com/150" width="100" height="60" alt="Task Manager Image"/>               | [View Live](https://your-task-url.com)       | [GitHub](https://github.com/your-profile/task-manager) |
-| 8      | **Online Quiz App**      | <img src="https://via.placeholder.com/150" width="100" height="60" alt="Quiz App Image"/>                   | [View Live](https://your-quiz-url.com)       | [GitHub](https://github.com/your-profile/quiz-app) |
-| 9      | **Portfolio V2**         | <img src="https://via.placeholder.com/150" width="100" height="60" alt="Portfolio V2 Image"/>               | [View Live](https://your-portfolio2-url.com) | [GitHub](https://github.com/your-profile/portfolio-v2) |
-| 10     | **Weather Dashboard**    | <img src="https://via.placeholder.com/150" width="100" height="60" alt="Weather Dashboard Image"/>          | [View Live](https://your-dashboard-url.com)  | [GitHub](https://github.com/your-profile/weather-dashboard) |
+<div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ccc; width: 100%;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <th style="padding: 10px; text-align: left;">Project Name</th>
+      <th style="padding: 10px; text-align: left;">Project Image</th>
+      <th style="padding: 10px; text-align: left;">Description</th>
+      <th style="padding: 10px; text-align: left;">Live URL</th>
+      <th style="padding: 10px; text-align: left;">Code Link</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>Snake Game</strong></td>
+      <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1BbU_poL55Zqi1iN54QNQCCYwdykRhrrB" style="width: 200px;" /></td>
+      <td style="padding: 10px;">- Classic snake gameplay<br>- Eat food to grow longer<br>- Avoid walls and self-collision</td>
+      <td style="padding: 10px;"><a href="https://amitkumar9297.github.io/snack-game/" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
+      <td style="padding: 10px;"><a href="https://github1s.com/amitkumar9297/snack-game" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>Dice Game</strong></td>
+      <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1aljh67Wyl-Vls1XO9ymvGJbdcOU9espz" style="width: 200px;" /></td>
+      <td style="padding: 10px;">- Interactive dice-rolling game<br>- Roll one or two dice<br>- Simple and engaging gameplay</td>
+      <td style="padding: 10px;"><a href="https://dice-game-eosin-alpha.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=appveyor&color=white&labelColor=4CAF50&logoColor=white&width=200&height=40" alt="View Live" /></a></td>
+      <td style="padding: 10px;"><a href="https://github1s.com/amitkumar9297/dice_game" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    </tr>
+  </table>
+</div>
 
 </details>
 
